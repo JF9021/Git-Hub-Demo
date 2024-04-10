@@ -7,3 +7,5 @@ This will help when doing assignments in case I need to go back to previous vers
 ## This is a new header 2 line
 
 Haresh made some changes here
+
+Making some edits to see they appear in GitHub
